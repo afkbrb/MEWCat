@@ -1,0 +1,11 @@
+main
+test
+*.tmp.txt
+*.log
+nohup.out
+solver
+*.o
+run
+mecq
+mewcat
+*.exe
