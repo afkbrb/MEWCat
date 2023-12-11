@@ -141,7 +141,7 @@ class Solver {
                 candidate_size = hi - i;
             }
 
-            // find from the candidate the vertex with maximum degree
+            // find from the candidate set the vertex with maximum degree
             int max_degree = -1;
             for (int j = i + 1; j < i + 1 + candidate_size; j++) {
                 int vj = set[j];
@@ -152,7 +152,7 @@ class Solver {
             }
 
             if (candidate_size == 0) {
-                // now the independent is maximal
+                // now the independent set is maximal
                 // open a new empty one
 
                 candidate_size = set_size - i - 1;
