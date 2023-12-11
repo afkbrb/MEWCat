@@ -1,6 +1,6 @@
 # A Fast Exact Solver with Theoretical Analysis for the Maximum Edge-Weighted Clique Problem
 
-Lu Liu, Mingyu Xiao, and Yi Zhou. A Fast Exact Solver with Theoretical Analysis for the Maximum Edge-Weighted Clique Problem. AAAI-24.
+> Lu Liu, Mingyu Xiao, and Yi Zhou. A Fast Exact Solver with Theoretical Analysis for the Maximum Edge-Weighted Clique Problem. AAAI-24.
 
 This repository contains the Appendix, code, and dataset for MEWCat.
 
